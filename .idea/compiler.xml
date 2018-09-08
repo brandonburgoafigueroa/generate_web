@@ -6,14 +6,14 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="spring-boot-generate" />
-        <module name="spring-scaffold-cli" />
+        <module name="cli" />
+        <module name="generate" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="cli" target="1.6" />
+      <module name="generate" target="1.8" />
       <module name="spring-boot-cli" target="1.5" />
-      <module name="spring-boot-generate" target="1.8" />
-      <module name="spring-scaffold-cli" target="1.6" />
     </bytecodeTargetLevel>
   </component>
 </project>

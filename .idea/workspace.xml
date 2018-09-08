@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fdee5c4f-c461-4143-bb58-9a6be88f1148" name="Default" comment="" />
+    <list default="true" id="fdee5c4f-c461-4143-bb58-9a6be88f1148" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-generate/spring-boot-generate.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-scaffold-cli/spring-scaffold-cli.iml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-scaffold-cli/cli.iml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/spring-scaffold-cli/target/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/spring-boot-generate/target/" />
@@ -13,7 +20,13 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -24,6 +37,9 @@
       <replace>${paramClassName}</replace>
       <replace>ModelAndView</replace>
     </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -73,150 +89,33 @@
     <option name="width" value="694" />
     <option name="height" value="775" />
   </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
       <pane id="PackagesPane" />
       <pane id="Scope" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="spring-boot-cli" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cli-spring-boot-scaffold-master" type="462c0819:PsiDirectoryNode" />
+              <item name="scaffold spring" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="spring-boot-cli" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cli-spring-boot-scaffold-master" type="462c0819:PsiDirectoryNode" />
+              <item name="scaffold spring" type="462c0819:PsiDirectoryNode" />
               <item name="spring-boot-generate" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="spring-boot-cli" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cli-spring-boot-scaffold-master" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-boot-generate" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-boot-cli" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cli-spring-boot-scaffold-master" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-boot-generate" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-boot-cli" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cli-spring-boot-scaffold-master" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-boot-generate" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-boot-cli" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cli-spring-boot-scaffold-master" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-boot-generate" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-boot-cli" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cli-spring-boot-scaffold-master" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-boot-generate" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="generate" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-boot-cli" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cli-spring-boot-scaffold-master" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-boot-generate" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-boot-cli" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cli-spring-boot-scaffold-master" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-boot-generate" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-boot-cli" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cli-spring-boot-scaffold-master" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-boot-generate" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-boot-cli" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cli-spring-boot-scaffold-master" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-boot-generate" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-boot-cli" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cli-spring-boot-scaffold-master" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-boot-generate" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-boot-cli" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cli-spring-boot-scaffold-master" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-boot-generate" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="model" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-boot-cli" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cli-spring-boot-scaffold-master" type="462c0819:PsiDirectoryNode" />
+              <item name="scaffold spring" type="462c0819:PsiDirectoryNode" />
               <item name="spring-scaffold-cli" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-boot-cli" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cli-spring-boot-scaffold-master" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-scaffold-cli" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-boot-cli" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cli-spring-boot-scaffold-master" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-scaffold-cli" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-boot-cli" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cli-spring-boot-scaffold-master" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-scaffold-cli" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -248,7 +147,7 @@
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
     <configuration name="All in spring-boot-generate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="spring-boot-generate" />
+      <module name="generate" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
@@ -265,7 +164,7 @@
       <patterns />
     </configuration>
     <configuration name="All in spring-scaffold-cli" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="spring-scaffold-cli" />
+      <module name="cli" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
@@ -352,6 +251,7 @@
       <workItem from="1536377752233" duration="113000" />
       <workItem from="1536377921773" duration="151000" />
       <workItem from="1536378126783" duration="57000" />
+      <workItem from="1536378835159" duration="93000" />
     </task>
     <servers />
   </component>
@@ -361,10 +261,11 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5987000" />
+    <option name="totallyTimeSpent" value="6080000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1376" height="784" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -374,7 +275,7 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" weight="0.32941177" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32884902" />
       <window_info anchor="bottom" id="Spring" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
@@ -523,9 +424,6 @@
           <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/spring-boot-generate/src/main/java/br/com/generate/application/properties/ApplicationPropertiesGenerator.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -696,6 +594,9 @@
           <caret line="85" column="57" selection-start-line="85" selection-start-column="57" selection-end-line="85" selection-end-column="57" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
   <component name="masterDetails">
