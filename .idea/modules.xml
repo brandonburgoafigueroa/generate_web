@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-cli.iml" filepath="$PROJECT_DIR$/spring-boot-cli.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-generate/spring-boot-generate.iml" filepath="$PROJECT_DIR$/spring-boot-generate/spring-boot-generate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-scaffold-cli/spring-scaffold-cli.iml" filepath="$PROJECT_DIR$/spring-scaffold-cli/spring-scaffold-cli.iml" />
+    </modules>
+  </component>
+</project>
