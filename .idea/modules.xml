@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/spring-scaffold-cli/cli.iml" filepath="$PROJECT_DIR$/spring-scaffold-cli/cli.iml" />
-      <module fileurl="file://$PROJECT_DIR$/spring-boot-generate/generate.iml" filepath="$PROJECT_DIR$/spring-boot-generate/generate.iml" />
-      <module fileurl="file://$PROJECT_DIR$/spring-boot-cli.iml" filepath="$PROJECT_DIR$/spring-boot-cli.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-scaffold-cli/src/main/main.iml" filepath="$PROJECT_DIR$/spring-scaffold-cli/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-generate/src/main/main1.iml" filepath="$PROJECT_DIR$/spring-boot-generate/src/main/main1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample/src/main/main2.iml" filepath="$PROJECT_DIR$/sample/src/main/main2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample/src/test/test.iml" filepath="$PROJECT_DIR$/sample/src/test/test.iml" />
     </modules>
   </component>
 </project>
