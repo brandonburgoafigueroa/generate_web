@@ -36,10 +36,9 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="346" />
-    <option name="y" value="41" />
+    <option name="x" value="-7" />
     <option name="width" value="694" />
-    <option name="height" value="775" />
+    <option name="height" value="745" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -47,10 +46,42 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="generate_web1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="generate_web1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="Configurations" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="generate_web1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="Configurations" type="462c0819:PsiDirectoryNode" />
+              <item name="SQLITE" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="generate_web1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="generate_web1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="Scope" />
-      <pane id="ProjectPane" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -58,6 +89,11 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Brandon\IdeaProjects\generate_web1\sample\src\test" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -126,6 +162,9 @@
       <updated>1537152331367</updated>
       <workItem from="1537152334833" duration="174000" />
       <workItem from="1537194574680" duration="13000" />
+      <workItem from="1537204419284" duration="401000" />
+      <workItem from="1537209144463" duration="54000" />
+      <workItem from="1537579205146" duration="258000" />
     </task>
     <task id="LOCAL-00001" summary="add layout config">
       <created>1537152432863</created>
@@ -134,11 +173,25 @@
       <option name="project" value="LOCAL" />
       <updated>1537152432863</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Add configuration">
+      <created>1537204587818</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1537204587818</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Add configurations">
+      <created>1537204753236</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1537204753236</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="187000" />
+    <option name="totallyTimeSpent" value="900000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1376" height="754" extended-state="6" />
@@ -156,7 +209,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3110294" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -180,7 +233,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add layout config" />
-    <option name="LAST_COMMIT_MESSAGE" value="add layout config" />
+    <MESSAGE value="Add configuration" />
+    <MESSAGE value="Add configurations" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add configurations" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$USER_HOME$/Documents/Codigo/spring/src/main/java/com/farol/demo/Configurations.java">
@@ -190,14 +245,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LayoutConfiguration">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/help" />
+    <entry file="file://$PROJECT_DIR$/LayoutConfiguration" />
+    <entry file="file://$PROJECT_DIR$/sample/src/test/Configurations/SQLITE/application.properties">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/help">
+    <entry file="file://$PROJECT_DIR$/sample/src/test/Configurations/SQLITE/Dependencias.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
